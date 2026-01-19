@@ -1,23 +1,18 @@
-### What is DevOps ?
+# What is DevOps ?
 - It's a culture or best practice that improves the deliverable abilities of organization.
 - It's an adoption of a method to delivers the application.
-
-Devops is a process of delivering in a continuous manner:
-
-Devops is a process of improving the application delivery by ensuring following:
-
+- Devops is a process of delivering in a continuous manner:
+- Devops is a process of improving the application delivery by ensuring following:
 1.Automation
 2.Quality
 3.Continuous Testing
 4.Continuous Monitoring
 
-### Why DevOps ?
+# Why DevOps ?
 - Before DevOps -> to deploy the single application (to take the application from developer to the end customers.), there were multiple developers/engineers are involved to deploy,test the single application, 
 - All the process is manually,
 - To automate the process , the world of the DevOps is evolved.
  
-
-
 ---
 
 # 🌐 DevOps – Day 1 Notes (Foundations)
